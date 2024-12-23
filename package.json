@@ -1,0 +1,16 @@
+{
+  "name": "@nrkn/netpbm",
+  "version": "0.0.1",
+  "description": "NetPBM Parser",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "Nik Coughlin <nrkn.com@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@rgba-image/png": "^0.1.1",
+    "@types/node": "^22.10.2"
+  }
+}
